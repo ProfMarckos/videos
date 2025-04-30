@@ -84,7 +84,7 @@ Para garantir que suas chaves de API **não sejam expostas**, este projeto utili
 
 ## ✍️ Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)  
+Desenvolvido por [Marcos Vinicius](https://github.com/ProfMarckos)  
 Este projeto tem fins educacionais e demonstra o uso de múltiplas APIs com segurança no React Native.
 
 ---
